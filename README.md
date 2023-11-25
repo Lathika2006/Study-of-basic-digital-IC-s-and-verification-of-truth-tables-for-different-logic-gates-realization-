@@ -63,6 +63,7 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 
 Developed by: LATHIKA L J
 RegisterNumber: 23012411
+
 code :
 
 ![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/3731c5ec-b7e1-436f-9a3e-5317ff1e92f7)

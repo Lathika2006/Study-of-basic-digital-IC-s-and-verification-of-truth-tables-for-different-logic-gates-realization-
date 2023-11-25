@@ -78,9 +78,10 @@ endmodule
 ```
 
 ## Output:
-![output](11.jpg)
-![output](222.png)
-![output](333.png)
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/32bfc9bc-a2b2-4143-8682-0ee2fd7fd223)
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/b5e847e8-9e53-4014-904a-5e2a4821454f)
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/d311e11c-74a4-4b94-acfb-38bf7a9594a3)
+
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.

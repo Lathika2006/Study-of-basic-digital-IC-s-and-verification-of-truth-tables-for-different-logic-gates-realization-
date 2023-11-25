@@ -59,13 +59,35 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
 /*
+```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by: Lathika L J
+RegisterNumber: 23012411
+
+module exno1(a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y3,y4,y5,y6,y7;
+and (y1,a,b);
+or (y2,a,b);
+not (y3,a);
+xor (y4,a,b);
+nand (y5,a,b);
+nor (y6,a,b)
+xnor (y7,a,b);
+endmodule 
+```
+  
 */
 Logic symbol & Truthtable
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/670b8a04-3c75-40d3-9856-d59b3168b607)
+
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/4feb7adb-b7e5-40fd-a489-b9f4e4b31cd1)
+
 RTL realization
 Output:
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/54abd20b-8895-4933-9cc7-c00f40204089)
+
 RTL
 
 Result:

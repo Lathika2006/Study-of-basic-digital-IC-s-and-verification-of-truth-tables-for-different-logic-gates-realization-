@@ -57,30 +57,21 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-## Program:
-```
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
-Developed by: Lathika L J
+## Program:
+Developed by: LATHIKA L J
 RegisterNumber: 23012411
 
-module exno1(a,b,y1,y2,y3,y4,y5,y6,y7);
-input a,b;
-output y1,y2,y3,y4,y5,y6,y7;
-and (y1,a,b);
-or (y2,a,b);
-not (y3,a);
-xor (y4,a,b);
-nand (y5,a,b);
-nor (y6,a,b)
-xnor (y7,a,b);
-endmodule 
-```
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/3731c5ec-b7e1-436f-9a3e-5317ff1e92f7)
 
-## Output:
-![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/32bfc9bc-a2b2-4143-8682-0ee2fd7fd223)
-![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/b5e847e8-9e53-4014-904a-5e2a4821454f)
-![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/d311e11c-74a4-4b94-acfb-38bf7a9594a3)
+##output
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/1c58a04a-bd07-4808-ac95-25eab8d4bdbe)
+
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/70a8f8c6-2d00-4ed5-b7e5-6e953b6b10d6)
+
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/46026958-5bd4-4bec-ba73-b3e67bbaefe0)
+
+
 
 
 ## Result:

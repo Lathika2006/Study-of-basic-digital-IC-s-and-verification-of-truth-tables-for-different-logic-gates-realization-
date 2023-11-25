@@ -59,20 +59,25 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
 ## Program:
+Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+
 Developed by: LATHIKA L J
 RegisterNumber: 23012411
 
+code :
 ![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/3731c5ec-b7e1-436f-9a3e-5317ff1e92f7)
 
-##output
-![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/1c58a04a-bd07-4808-ac95-25eab8d4bdbe)
+Truth table:
 
-![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/70a8f8c6-2d00-4ed5-b7e5-6e953b6b10d6)
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/96df389b-41b5-4d5f-acb1-f29d6efc1fe4)
 
-![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/46026958-5bd4-4bec-ba73-b3e67bbaefe0)
+RTL Diagram:
 
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/3ca08de5-8fa0-4487-9dd7-8ed9cae0447b)
 
+Output:
 
+![image](https://github.com/Lathika2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148959215/4636ea07-cba6-46ff-8fca-1d29273863e4)
 
-## Result:
+Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
